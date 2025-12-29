@@ -30,4 +30,4 @@ The goal is to identify products, brands, and store characteristics with the hig
 - Official and non-official stores show different revenue distributions
 
 ## 📂 Files
-- `tokopedia_sales_dashboard.pbix`: Power BI dashboard file
+- `ReporteTokopedia2.pbix`: Power BI dashboard file
