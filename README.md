@@ -22,7 +22,7 @@ The goal is to identify products, brands, and store characteristics with the hig
 - Data Visualization
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_previews.png)
 
 ## 💡 Key Insights
 - A small group of products generates a large portion of total revenue
